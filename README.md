@@ -1,1 +1,1 @@
-# Editor de texto super simple. Ideal para practicar python.
+## Editor de texto super simple. Ideal para practicar python.
